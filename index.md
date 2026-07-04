@@ -11,7 +11,7 @@ permalink: /
   <div class="hero-text">
     <h1>Seelos Water</h1>
     <p>Water Resources | Environmental | Data Science</p>
-    <p>Scientific consulting for groundwater, water systems, GIS, and environmental analysis.</p>
+    <p>Applied water resources consulting across surface and groundwater systems for utility decision support.</p>
   </div>
 
 </section>
