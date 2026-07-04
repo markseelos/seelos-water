@@ -1,5 +1,5 @@
 /* =========================
-   RESET + SAFETY
+   RESET + BASE
 ========================= */
 
 * {
@@ -14,60 +14,104 @@ html, body {
   overflow-x: hidden;
   font-family: "Inter", Arial, sans-serif;
   color: #1a1a1a;
-  background: #fff;
-  line-height: 1.6;
+  background: #ffffff;
+  line-height: 1.65;
+  font-size: 16px;
+}
+
+/* subtle background refinement */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* =========================
-   GLOBAL LAYOUT
+   LAYOUT CONTAINER SYSTEM
 ========================= */
 
 main {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 60px 24px;
 }
 
 /* =========================
-   HEADER
+   TYPOGRAPHY SYSTEM
+========================= */
+
+h1 {
+  font-size: 42px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-bottom: 12px;
+  color: #111;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 18px;
+  letter-spacing: -0.01em;
+  color: #111;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #111;
+}
+
+p {
+  color: #4a4a4a;
+  margin-bottom: 14px;
+  font-size: 15.5px;
+}
+
+/* =========================
+   HEADER (CONSULTING STYLE)
 ========================= */
 
 .site-header {
   border-bottom: 1px solid #eee;
   background: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .header-inner {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 14px 20px;
+  padding: 16px 24px;
 
   display: flex;
   justify-content: space-between;
   align-items: center;
 
+  gap: 16px;
   flex-wrap: wrap;
-  gap: 12px;
 }
 
 .logo a {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
   color: #111;
   text-decoration: none;
+  letter-spacing: -0.01em;
 }
 
 .nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
+  gap: 18px;
 }
 
 .nav a {
   font-size: 14px;
+  color: #555;
   text-decoration: none;
-  color: #444;
-  white-space: nowrap;
+  transition: color 0.2s ease;
 }
 
 .nav a:hover {
@@ -75,77 +119,107 @@ main {
 }
 
 /* =========================
-   HERO (FIXED CONTAINER MODEL)
+   HERO (CONSULTING STYLE)
 ========================= */
 
 .hero {
-  max-width: 1100px;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 80px 24px 40px;
   text-align: center;
 }
 
+.hero h1 {
+  font-size: 44px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 16px;
+  color: #555;
+  max-width: 720px;
+  margin: 0 auto 10px;
+}
+
+/* hero image refinement */
 .hero-image {
   width: 100%;
   max-width: 100%;
   height: auto;
   max-height: 420px;
   object-fit: cover;
+  border-radius: 14px;
+  margin: 0 auto 24px;
   display: block;
-  border-radius: 12px;
-  margin: 0 auto 20px;
 }
 
 /* =========================
-   TEXT
-========================= */
-
-h1 {
-  font-size: 40px;
-  margin-bottom: 10px;
-}
-
-h2 {
-  font-size: 26px;
-  margin-bottom: 16px;
-}
-
-p {
-  color: #555;
-  margin-bottom: 8px;
-}
-
-/* =========================
-   GRID / CARDS
+   SERVICES GRID (CONSULTING STYLE)
 ========================= */
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 22px;
+  margin-top: 24px;
 }
 
 .card {
-  border: 1px solid #eee;
-  padding: 18px;
-  border-radius: 10px;
+  border: 1px solid #eaeaea;
+  padding: 22px;
+  border-radius: 12px;
   background: #fff;
-  transition: 0.2s ease;
+  transition: all 0.2s ease;
 }
 
 .card:hover {
-  transform: translateY(-2px);
-  border-color: #ddd;
+  transform: translateY(-3px);
+  border-color: #d8d8d8;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.04);
 }
 
 /* =========================
-   FOOTER
+   ABOUT PAGE (CONSULTING LAYOUT)
+========================= */
+
+.about-container {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.about-headshot {
+  flex: 0 0 22%;
+  max-width: 240px;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-text h2 {
+  margin-top: 0;
+}
+
+.about-text p {
+  margin-bottom: 16px;
+}
+
+/* =========================
+   FOOTER (MINIMAL CONSULTING STYLE)
 ========================= */
 
 .site-footer {
   border-top: 1px solid #eee;
-  margin-top: 60px;
-  padding: 25px 20px;
+  margin-top: 80px;
+  padding: 28px 24px;
   text-align: center;
   font-size: 13px;
   color: #777;
@@ -156,8 +230,13 @@ p {
 ========================= */
 
 @media (max-width: 768px) {
+
   h1 {
-    font-size: 32px;
+    font-size: 34px;
+  }
+
+  .hero {
+    padding: 60px 20px 30px;
   }
 
   .header-inner {
@@ -167,5 +246,13 @@ p {
 
   .nav {
     justify-content: center;
+  }
+
+  .about-container {
+    flex-direction: column;
+  }
+
+  .about-headshot {
+    max-width: 180px;
   }
 }
