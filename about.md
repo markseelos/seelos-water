@@ -31,7 +31,7 @@ permalink: /about/
       </p>
 
       <p>
-        He has contributed to large-scale watershed and water quality initiatives, including the Guadalupe River Watershed Mercury TMDL Program, groundwater sustainability planning efforts, and comprehensive well asset management programs involving prioritization, rehabilitation, siting, and replacement. He has also served as a technical subject matter expert for surface water quality in multi-disciplinary infrastructure projects.
+        He has contributed to large-scale watershed and water quality initiatives, including TMDL Programs, Groundwater Sustainability Agencies, and comprehensive well asset management programs involving prioritization, rehabilitation, siting, and replacement. He has also served as a technical subject matter expert for surface water quality in multi-disciplinary infrastructure projects.
       </p>
 
       <p>
