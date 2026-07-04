@@ -1,11 +1,17 @@
-<header>
-  <div class="logo">Seelos Water</div>
+<header class="site-header">
+  <div class="container header-inner">
 
-  <nav>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <a href="/services">Services</a>
-    <a href="/projects">Projects</a>
-    <a href="/contact">Contact</a>
-  </nav>
+    <div class="logo">
+      <a href="{{ '/' | relative_url }}">Seelos Water</a>
+    </div>
+
+    <nav class="nav">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/services/' | relative_url }}">Services</a>
+      <a href="{{ '/projects/' | relative_url }}">Projects</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    </nav>
+
+  </div>
 </header>
