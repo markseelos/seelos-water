@@ -1,6 +1,8 @@
 title: Seelos Water
 description: Water Resources | Environmental | Data Science
 
+baseurl: "/seelos-water"
+
 theme: minima
 
 markdown: kramdown
