@@ -80,17 +80,18 @@ main {
 ========================= */
 
 .hero {
-  text-align: center;
-  padding: 50px 0 30px;
+  overflow-x: hidden;
 }
 
 .hero-image {
   width: 100%;
+  max-width: 100%;
+  height: auto;
   max-height: 420px;
   object-fit: cover;
-  border-radius: 12px;
-  margin-bottom: 24px;
   display: block;
+  border-radius: 12px;
+  margin: 0 auto 24px;
 }
 
 .hero h1 {
