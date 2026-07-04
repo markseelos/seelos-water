@@ -1,0 +1,9 @@
+title: Seelos Water
+description: Water Resources | Environmental | Data Science
+
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
