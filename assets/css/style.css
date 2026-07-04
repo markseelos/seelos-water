@@ -17,16 +17,12 @@ html, body {
   background: #ffffff;
   line-height: 1.65;
   font-size: 16px;
-}
-
-/* subtle background refinement */
-body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 /* =========================
-   LAYOUT CONTAINER SYSTEM
+   GLOBAL LAYOUT
 ========================= */
 
 main {
@@ -36,7 +32,7 @@ main {
 }
 
 /* =========================
-   TYPOGRAPHY SYSTEM
+   TYPOGRAPHY
 ========================= */
 
 h1 {
@@ -69,7 +65,7 @@ p {
 }
 
 /* =========================
-   HEADER (CONSULTING STYLE)
+   HEADER
 ========================= */
 
 .site-header {
@@ -89,8 +85,8 @@ p {
   justify-content: space-between;
   align-items: center;
 
-  gap: 16px;
   flex-wrap: wrap;
+  gap: 16px;
 }
 
 .logo a {
@@ -98,7 +94,6 @@ p {
   font-weight: 600;
   color: #111;
   text-decoration: none;
-  letter-spacing: -0.01em;
 }
 
 .nav {
@@ -119,7 +114,7 @@ p {
 }
 
 /* =========================
-   HERO (CONSULTING STYLE)
+   HERO
 ========================= */
 
 .hero {
@@ -129,11 +124,6 @@ p {
   text-align: center;
 }
 
-.hero h1 {
-  font-size: 44px;
-  margin-bottom: 10px;
-}
-
 .hero p {
   font-size: 16px;
   color: #555;
@@ -141,10 +131,8 @@ p {
   margin: 0 auto 10px;
 }
 
-/* hero image refinement */
 .hero-image {
   width: 100%;
-  max-width: 100%;
   height: auto;
   max-height: 420px;
   object-fit: cover;
@@ -154,7 +142,7 @@ p {
 }
 
 /* =========================
-   SERVICES GRID (CONSULTING STYLE)
+   SERVICES GRID
 ========================= */
 
 .grid {
@@ -179,43 +167,44 @@ p {
 }
 
 /* =========================
-   ABOUT PAGE (CONSULTING LAYOUT)
+   ABOUT PAGE (FIXED: CONSULTING GRID)
 ========================= */
 
 .about-container {
-  display: flex;
+  display: grid;
+  grid-template-columns: 180px 1fr;
   gap: 40px;
-  align-items: flex-start;
+  align-items: start;
   max-width: 1100px;
   margin: 0 auto;
 }
 
+/* HEADSHOT (LOCKED SIZE) */
 .about-headshot {
-  flex: 0 0 180px;   /* hard cap = keeps it small */
   width: 180px;
-  max-width: 180px;
-
-  height: auto;
-  border-radius: 12px;
+  height: 180px;
   object-fit: cover;
-
+  border-radius: 10px;
   box-shadow: 0 6px 18px rgba(0,0,0,0.06);
 }
 
+/* TEXT COLUMN */
 .about-text {
-  flex: 1;
+  min-width: 0;
 }
 
+/* ABOUT TEXT SPACING */
 .about-text h2 {
   margin-top: 0;
 }
 
 .about-text p {
   margin-bottom: 16px;
+  line-height: 1.7;
 }
 
 /* =========================
-   FOOTER (MINIMAL CONSULTING STYLE)
+   FOOTER
 ========================= */
 
 .site-footer {
@@ -251,10 +240,11 @@ p {
   }
 
   .about-container {
-    flex-direction: column;
+    grid-template-columns: 1fr;
   }
 
   .about-headshot {
-    max-width: 180px;
+    width: 160px;
+    height: 160px;
   }
 }
