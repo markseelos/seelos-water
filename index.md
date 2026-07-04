@@ -1,17 +1,23 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
 <section class="hero">
-  <div>
+
+  <img src="{{ '/assets/images/hero.jpg' | relative_url }}" class="hero-image" alt="Seelos Water">
+
+  <div class="hero-text">
     <h1>Seelos Water</h1>
     <p>Water Resources | Environmental | Data Science</p>
     <p>Scientific consulting for groundwater, water systems, GIS, and environmental analysis.</p>
   </div>
+
 </section>
 
-<section>
+<section class="section">
+
   <h2>Services</h2>
 
   <div class="grid">
@@ -32,4 +38,5 @@ title: Home
     </div>
 
   </div>
+
 </section>
