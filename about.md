@@ -16,10 +16,10 @@ permalink: /about/
     <!-- Text Content -->
     <div class="about-text">
 
-      <h2>About Seelos Water</h2>
+      <h2>Mark Seelos, PhD</h2>
 
       <p>
-        Mark Seelos, PhD, is a water resources professional with over 10 years of experience in water and wastewater utility systems, watershed science, limnology, and environmental data analysis. His work focuses on surface and groundwater systems, supporting utility project delivery, water quality programs, and regulatory compliance through applied science and data-driven decision support.
+        Mark Seelos is a water resources professional with over 10 years of experience in water and wastewater utility systems, watershed science, limnology, and environmental data analysis. His work focuses on surface and groundwater systems, supporting utility project delivery, water quality programs, and regulatory compliance through applied science and data-driven decision support.
       </p>
 
       <p>
