@@ -4,17 +4,21 @@ title: Contact
 permalink: /contact/
 ---
 
-<section class="contact-page">
-
-  <div class="contact-card">
-    <h1>Contact</h1>
-
-    <p class="lead">
-      For inquiries, please use the form below.
-      I typically respond within a few business days.
-    </p>
-
-    <form action="https://formspree.io/f/mrenvwnk" method="POST" class="contact-form">
+<section class="contact-page">  
+  
+  <div class="contact-card">  
+    <h1>Contact</h1>  
+  
+    <p class="lead">  
+      For inquiries, please use the form below.  
+      I typically respond within a few business days.  
+    </p>  
+  
+    <p class="contact-location">  
+      South Lake Tahoe, California  
+    </p>  
+  
+    <form action="https://formspree.io/f/mrenvwnk" method="POST" class="contact-form">  
 
       <div class="form-field">
         <label for="name">Name</label>
