@@ -370,7 +370,18 @@ section {
   align-items: start;
 }
 
-/* About photo sizing fix */
+/* Headshot */
+.about-headshot {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 18px;
+  display: block;
+  margin: 0 auto 24px;
+  box-shadow: var(--shadow-soft);
+}
+
+/* Legacy image classes */
 .about-photo,
 .about-image,
 .profile-photo {
@@ -390,19 +401,6 @@ img.profile-photo {
   border-radius: 18px;
   display: block;
   margin: 0 auto;
-  box-shadow: var(--shadow-soft);
-}
-
-/* If your image has no class but is inside the about title/intro area */
-.about-page img,
-.about-title-block img,
-.about-intro img,
-.about-hero img,
-.about-profile img {
-  max-width: 260px;
-  width: 100%;
-  height: auto;
-  border-radius: 18px;
   box-shadow: var(--shadow-soft);
 }
 
@@ -729,6 +727,11 @@ footer > div {
     grid-template-columns: 1fr;
   }
 
+  .about-headshot {
+  width: 200px;
+  height: 200px;
+  }
+
   .about-photo,
   .about-image,
   .profile-photo,
@@ -807,6 +810,11 @@ footer > div {
   .about-profile img {
     max-width: 220px;
   }
+
+  .about-headshot {
+  width: 180px;
+  height: 180px;
+} 
 
   .contact-form button {
     width: 100%;
