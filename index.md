@@ -13,12 +13,11 @@ title: Home
     <p class="tagline">Water Resources | Environmental | Data Science</p>
 
     <p class="hero-lead">
-      Applied water resources consulting across surface water, groundwater, and utility systems.
+      Applied water resources consulting across surface water and groundwater systems.
     </p>
 
     <p>
-      Focused technical support for clients who need clear analysis, defensible documentation,
-      and practical implementation experience.
+    Helping partners tackle complex water resource projects with real-world experience, clear analysis, and practical solutions.
     </p>
   </div>
 
