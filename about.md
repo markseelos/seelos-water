@@ -19,36 +19,132 @@ permalink: /about/
       <h2>Mark Seelos, PhD</h2>
 
       <p>
-        Mark Seelos is a water resources professional with over 10 years of experience in water and wastewater utility systems, watershed science, limnology, and environmental data analysis. His work focuses on surface and groundwater systems, supporting utility project delivery, water quality programs, and regulatory compliance through applied science and data-driven decision support.
+        Mark Seelos is a water resources professional specializing in aquatic systems, water quality management, and utility infrastructure planning. He currently serves as Water Resources Manager for the South Tahoe Public Utility District, where he leads programs involving water supply planning, groundwater resources, regulatory compliance, and long-term system resilience.
       </p>
 
       <p>
-        He holds a BS in Earth Sciences from the University of California, Santa Cruz, with a focus in Environmental Geology, and a PhD in Environmental Systems from the University of California, Merced, where his research focused on mercury and nutrient dynamics in impaired reservoir systems.
+        He holds a BS in Earth Sciences from the University of California, Santa Cruz, with an emphasis in Environmental Geology, and a PhD in Environmental Systems from the University of California, Merced. His doctoral research focused on mercury cycling, nutrient dynamics, and management strategies for impaired reservoir systems.
       </p>
 
       <p>
-        His experience spans water and wastewater utility systems, watershed-scale water quality programs, regulatory compliance initiatives, and the delivery of complex environmental infrastructure projects. He has supported planning, implementation, and evaluation of programs involving groundwater systems, surface water quality, and watershed management under highly regulated conditions.
+        Mark's work bridges environmental science and practical water management, combining limnology, watershed science, environmental data analysis, and infrastructure planning to address complex water resource challenges. His experience includes surface water quality programs, Total Maximum Daily Load (TMDL) implementation, groundwater sustainability planning, and utility asset management.
       </p>
 
       <p>
-        He has contributed to large-scale watershed and water quality initiatives, including TMDL Programs, Groundwater Sustainability Agencies, and comprehensive well asset management programs involving prioritization, rehabilitation, siting, and replacement. He has also served as a technical subject matter expert for surface water quality in multi-disciplinary infrastructure projects.
+        His research and professional work have focused on translating scientific understanding into actionable solutions, including reservoir oxygenation, sediment remediation, mercury risk reduction, greenhouse gas assessment, water supply reliability, and regulatory compliance. He has served as a technical contributor and project leader on multidisciplinary programs involving utilities, regulatory agencies, consultants, and academic researchers.
       </p>
 
       <p>
-        He integrates limnology, environmental systems analysis, and advanced data methods to support practical decision-making for water utilities, with an emphasis on translating complex environmental conditions into actionable outcomes for infrastructure and regulatory programs.
+        Mark is particularly interested in applying data-driven approaches and environmental systems analysis to improve decision-making for water utilities and watershed managers.
       </p>
 
-      <!-- OPTIONAL PUBLICATIONS SECTION -->
-      <!-- Uncomment if you want to enable -->
 
-      <!--
-      <h3>Selected Publications</h3>
+      <h3>Publications</h3>
       <ul>
-        <li>Seelos, M. et al. (Year). Title related to reservoir nutrient or mercury dynamics.</li>
-        <li>Seelos, M. et al. (Year). Watershed water quality or TMDL study.</li>
-        <li>Coauthored technical report on regulatory or infrastructure water quality program.</li>
+
+        <li>
+          Weiss-Penzias, P., et al., including <strong>Seelos, M.</strong> (2025). 
+          Atmospheric mercury uptake to foliage using in situ and transplanted lichens at the New Almaden Mining District, California, United States. 
+          <em>Frontiers in Environmental Chemistry</em>.
+        </li>
+
+        <li>
+          Defeo, et al., including <strong>Seelos, M.</strong> (2025). 
+          Evaluation of sorbent application methods for mercury control in the profundal zone of a reservoir in the historic New Almaden Mining District, California. 
+          <em>ACS ES&T Water</em>.
+        </li>
+
+        <li>
+          Thirkill, R. H., Ramón, C. L., Oldroyd, H. J., <strong>Seelos, M.</strong>, Rueda, F. J., and Forrest, A. L. (2024).
+          Navigating Greenhouse Gas Emission Unknowns: A Hydroacoustic Examination of Mediterranean Climate Reservoirs.
+          <em>Journal of Geophysical Research: Biogeosciences</em>, 129, e2024JG008080.
+          DOI: 10.1029/2024JG008080.
+        </li>
+
+        <li>
+          <strong>Seelos, M.</strong>, Beutel, M., McCord, S., Kim, S., and Vigil, K. (2022).
+          Plankton population dynamics and methylmercury bioaccumulation in the pelagic food web of mine-impacted surface water reservoirs.
+          <em>Hydrobiologia</em>.
+        </li>
+
+        <li>
+          <strong>Seelos, M.</strong>, Rivas Meraz, E., Beutel, M., Traina, S. J., Fuhrmann, B., Burmistrova, J., Vlassopoulos, D., and O’Day, P. A. (2021).
+          Evaluation of manganese oxide amendments for mercury remediation in contaminated aquatic sediments.
+          <em>ACS Environmental Science & Technology Engineering</em>, 1, 1688–1697.
+        </li>
+
+        <li>
+          Fuhrmann, B., Beutel, M., O’Day, P., Tran, C., Funk, A., Brower, S., Pasek, J., and <strong>Seelos, M.</strong> (2021).
+          Effects of mercury, organic carbon, and microbial inhibition on methylmercury cycling at the profundal sediment-water interface of a sulfate-rich hypereutrophic reservoir.
+          <em>Environmental Pollution</em>, 268.
+        </li>
+
+        <li>
+          <strong>Seelos, M.</strong>, Beutel, M., Austin, C. M., Wilkinson, E., and Leal, C. (2021).
+          Effects of hypolimnetic oxygenation on fish tissue mercury in reservoirs near the New Almaden mining district, California, USA.
+          <em>Environmental Pollution</em>, 268, 115759.
+        </li>
+
+        <li>
+          Duvil, R., Beutel, M., Fuhrmann, B., and <strong>Seelos, M.</strong> (2018).
+          Effect of oxygen, nitrate and aluminum addition on methylmercury efflux from mine-impacted reservoir sediment.
+          <em>Water Research</em>, 144.
+        </li>
+
       </ul>
-      -->
+
+
+      <h3>Manuscripts in Review</h3>
+      <ul>
+
+        <li>
+          Beutel, M. W., Rodal-Morales, N., Singer, M., <strong>Seelos, M.</strong>, and Amegbletora, L.
+          Suppression of sediment phosphorus release by Phoslock®, aluminum chlorohydrate, and alum during extended sediment–water incubation with organic matter addition.
+        </li>
+
+      </ul>
+
+
+      <h3>Selected Presentations</h3>
+      <ul>
+
+        <li>
+          <strong>Seelos, M.</strong> (2022).
+          Evaluation of Manganese Oxide Amendments for Mercury Remediation in Contaminated Aquatic Sediments.
+          International Conference on Mercury as a Global Pollutant. Virtual.
+        </li>
+
+        <li>
+          <strong>Seelos, M.</strong> (2022).
+          Effects of Hypolimnetic Oxygenation on Fish Tissue Mercury in Mine-Impacted Reservoirs.
+          International Conference on Mercury as a Global Pollutant. Virtual.
+        </li>
+
+        <li>
+          <strong>Seelos, M.</strong> (2022).
+          Under Budget: Quantifying Reservoir Greenhouse Gas Emissions in Pursuit of Carbon Neutrality.
+          California Society for Freshwater Science Meeting. Sacramento, CA.
+        </li>
+
+        <li>
+          <strong>Seelos, M.</strong> (2020).
+          Slow Progress with Quicksilver.
+          Keynote Address, California Lake Management Society Annual Conference. Virtual.
+        </li>
+
+        <li>
+          <strong>Seelos, M.</strong> (2020).
+          Hypolimnetic Oxygenation to Control Mercury Bioaccumulation in Lakes: Two Case Studies.
+          California Aquatic Bioassessment Workgroup, State Water Resources Control Board. Virtual.
+        </li>
+
+        <li>
+          <strong>Seelos, M.</strong> (2017).
+          Effectiveness of Hypolimnetic Oxygenation in Eutrophic Reservoirs Impacted by Large-Scale Mercury Mining.
+          International Conference on Mercury as a Global Pollutant. Providence, Rhode Island.
+        </li>
+
+      </ul>
 
     </div>
   </div>
