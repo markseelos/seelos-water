@@ -80,11 +80,9 @@ p {
   max-width: 1100px;
   margin: 0 auto;
   padding: 16px 24px;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
-
   flex-wrap: wrap;
   gap: 16px;
 }
@@ -167,7 +165,7 @@ p {
 }
 
 /* =========================
-   ABOUT PAGE (FIXED: CONSULTING GRID)
+   ABOUT PAGE
 ========================= */
 
 .about-container {
@@ -179,7 +177,6 @@ p {
   margin: 0 auto;
 }
 
-/* HEADSHOT (LOCKED SIZE) */
 .about-headshot {
   width: 180px;
   height: 180px;
@@ -188,19 +185,36 @@ p {
   box-shadow: 0 6px 18px rgba(0,0,0,0.06);
 }
 
-/* TEXT COLUMN */
 .about-text {
   min-width: 0;
 }
 
-/* ABOUT TEXT SPACING */
+/* ABOUT PAGE SPACING */
+
 .about-text h2 {
   margin-top: 0;
+  margin-bottom: 2rem;
+}
+
+.about-text h3 {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
 }
 
 .about-text p {
-  margin-bottom: 16px;
+  margin-bottom: 1.5rem;
   line-height: 1.7;
+}
+
+.about-text ul {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  padding-left: 20px;
+}
+
+.about-text li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
 }
 
 /* =========================
@@ -208,12 +222,18 @@ p {
 ========================= */
 
 .site-footer {
+  width: 100%;
   border-top: 1px solid #eee;
   margin-top: 80px;
   padding: 28px 24px;
   text-align: center;
   font-size: 13px;
   color: #777;
+}
+
+.site-footer p {
+  text-align: center;
+  margin: 0 auto;
 }
 
 /* =========================
