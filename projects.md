@@ -21,9 +21,8 @@ permalink: /projects/
       <h3>Lake Stewardship & Environmental Science Support</h3>
       <p>
         Contract environmental science support for a lake stewardship organization, including
-        environmental data review, statistical analysis, GIS-based evaluation, mapping support,
-        technical reporting, scientific communication, and review of public-facing environmental
-        materials.
+        environmental research design, data analysis, GIS database management, technical reporting, 
+        and scientific communication.
       </p>
     </div>
   </section>
@@ -42,7 +41,7 @@ permalink: /projects/
       <article class="project-box">
         <h3>Groundwater Sustainability Plan Management</h3>
         <p>
-          Serve as Groundwater Sustainability Plan Manager for a Groundwater Sustainability Agency,
+          Served as Plan Manager for a Tahoe Valley South Groundwater Sustainability Agency,
           managing annual reporting, monitoring evaluation, technical coordination, data review,
           implementation tracking, and communication with agency leadership and stakeholders.
         </p>
@@ -71,7 +70,7 @@ permalink: /projects/
         <p>
           Designed, managed, and evaluated environmental monitoring programs for surface water,
           groundwater, recycled water, reservoirs, and field studies, with emphasis on defensible
-          sampling design, statistical analysis, GIS evaluation, QA/QC, and technical reporting.
+          sampling design, statistical analysis, QA/QC, and technical reporting.
         </p>
       </article>
 
@@ -88,7 +87,7 @@ permalink: /projects/
         <h3>Utility Project Planning & Alternatives Evaluation</h3>
         <p>
           Managed and contributed to utility planning projects from problem definition through
-          alternatives evaluation, technical review, GIS exhibits, implementation planning,
+          alternatives evaluation, technical review, implementation planning,
           decision-support materials, and board-ready communication.
         </p>
       </article>
