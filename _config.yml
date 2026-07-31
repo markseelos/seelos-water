@@ -2,6 +2,7 @@ title: Seelos Water
 description: Water Resources | Environmental | Data Science
 
 baseurl: "/seelos-water"
+url: "https://markseelos.github.io"  
 
 theme: minima
 
