@@ -7,18 +7,18 @@ permalink: /services/
 <section class="services-page">
 
   <div class="services-title-block">
-    <h1>Focused support for water quality, groundwater, wells, GIS, and utility planning.</h1>
+    <h1>Focused support for water quality, reservoir management, groundwater, wells, and utility planning.</h1>
     <p class="lead">
       Practical technical consulting for public agencies, utilities, Groundwater Sustainability
-      Agencies, watershed programs, and project teams that need senior-level support for focused assignments.
+      Agencies, watershed groups, and project teams that need senior-level support for focused assignments.
     </p>
   </div>
 
   <div class="services-intro">
     <h2>Services</h2>
     <p>
-      Services include regulatory implementation support, monitoring design, statistical analysis,
-      GIS-based evaluation, technical review, alternatives analysis, project planning, reporting,
+      Services include regulatory implementation support, monitoring design, data analysis,
+      geospatial analysis and mapping, technical review, alternatives analysis, project planning, reporting,
       and owner-side advisory support for water resources and utility projects.
     </p>
   </div>
@@ -36,7 +36,7 @@ permalink: /services/
         <li>Pollutant source and loading evaluations</li>
         <li>Compliance tracking and annual reporting</li>
         <li>Water quality project prioritization</li>
-        <li>Technical support for grant-funded implementation projects</li>
+        <li>Technical support</li>
       </ul>
     </article>
 
@@ -50,7 +50,7 @@ permalink: /services/
         <li>Surface water, reservoir, groundwater, and recycled water monitoring plans</li>
         <li>Sampling locations, parameters, frequency, and field methods</li>
         <li>QA/QC procedures, field workflows, and data management structure</li>
-        <li>Statistical analysis, GIS evaluation, data interpretation, and technical reporting</li>
+        <li>Statistical analysis, data interpretation, and technical reporting</li>
         <li>Public-facing summaries, graphics, memos, and board materials</li>
       </ul>
     </article>
@@ -62,23 +62,22 @@ permalink: /services/
         planning rehabilitation work, and prioritizing capital investment.
       </p>
       <ul>
-        <li>Well and pump performance testing programs</li>
-        <li>Specific capacity, drawdown, pump performance, and efficiency analysis</li>
+        <li>Design of well and pump performance testing programs</li>
+        <li>Well and pump performance analysis and reporting</li>
         <li>Well condition assessment and rehabilitation prioritization</li>
-        <li>Inspection, cleaning, redevelopment, and pump testing recommendations</li>
-        <li>Well rehabilitation scopes, technical review, and owner-side support</li>
+        <li>Well rehabilitation scopes, specifications, and owner-side support</li>
       </ul>
     </article>
 
     <article class="service-box">
       <h3>Well Siting & Project Planning</h3>
       <p>
-        Planning support for test wells, replacement wells, and new production wells, from
+        Planning support for monitoring wells, test wells, replacement wells, and new production wells, from
         early concept development through technical coordination and implementation strategy.
       </p>
       <ul>
-        <li>Desktop siting evaluations and GIS-based screening</li>
-        <li>Test well and replacement well planning</li>
+        <li>Desktop siting evaluations</li>
+        <li>Test well and production well planning</li>
         <li>Coordination with hydrogeologists, engineers, and drilling contractors</li>
         <li>Review of hydrogeologic recommendations and preliminary well designs</li>
         <li>Permitting, property, procurement, and implementation planning support</li>
@@ -93,7 +92,7 @@ permalink: /services/
       </p>
       <ul>
         <li>GSP annual report support</li>
-        <li>Groundwater elevation, hydrograph, and water-year analysis</li>
+        <li>Groundwater elevation, water quality, and water-year analysis</li>
         <li>Statistical analysis of hydrogeologic and monitoring data</li>
         <li>Groundwater monitoring plans and network evaluation</li>
         <li>GIS-based analysis, public-facing summaries, graphics, memos, and board materials</li>
