@@ -18,25 +18,25 @@ permalink: /about/
 
       <h2>Mark Seelos, PhD</h2>
 
-      <p>
-        Mark Seelos is a water resources professional specializing in aquatic systems, water quality management, and utility infrastructure planning. He currently serves as Water Resources Manager for the South Tahoe Public Utility District, where he leads programs involving water supply planning, groundwater resources, regulatory compliance, and long-term system resilience.
-      </p>
+<p>
+  Mark Seelos is a water resources professional specializing reservoir and groundwater systems. He currently serves as Water Resources Manager for the South Tahoe Public Utility District, where his work includes water supply planning, capital project delivery, groundwater management, and regulatory compliance.
+</p>
 
-      <p>
-        He holds a BS in Earth Sciences from the University of California, Santa Cruz, with an emphasis in Environmental Geology, and a PhD in Environmental Systems from the University of California, Merced. His doctoral research focused on mercury cycling, nutrient dynamics, and management strategies for impaired reservoir systems.
-      </p>
+<p>
+  He holds a BS in Earth Sciences from the University of California, Santa Cruz, with an emphasis in Environmental Geology, and a PhD in Environmental Systems from the University of California, Merced. His doctoral research examined mercury cycling, nutrient dynamics, and management strategies for impaired reservoir systems.
+</p>
 
-      <p>
-        Mark's work bridges environmental science and practical water management, combining limnology, watershed science, environmental data analysis, and infrastructure planning to address complex water resource challenges. His experience includes surface water quality programs, Total Maximum Daily Load (TMDL) implementation, groundwater sustainability planning, and utility asset management.
-      </p>
+<p>
+Mark’s work combines technical expertise with practical water management, bringing together environmental science, hydrogeology, and engineering to help organizations make informed decisions.
+</p>
 
-      <p>
-        His research and professional work have focused on translating scientific understanding into actionable solutions, including reservoir oxygenation, sediment remediation, mercury risk reduction, greenhouse gas assessment, water supply reliability, and regulatory compliance. He has served as a technical contributor and project leader on multidisciplinary programs involving utilities, regulatory agencies, consultants, and academic researchers.
-      </p>
+<p>
+  Throughout his career, Mark has worked with utilities, regulators, consultants, and researchers to develop solutions for challenging water resource issues. His projects have included reservoir management, sediment and nutrient studies, groundwater sustainability, water supply planning and implementation, and environmental permitting and compliance.
+</p>
 
-      <p>
-        Mark is particularly interested in applying data-driven approaches and environmental systems analysis to improve decision-making for water utilities and watershed managers.
-      </p>
+<p>
+  He is passionate about using science, data, and practical experience to help organizations better understand their water resources and make informed decisions about the future.
+</p>
 
 
       <h3>Publications</h3>
