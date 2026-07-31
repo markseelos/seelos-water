@@ -4,34 +4,31 @@ title: Services
 permalink: /services/
 ---
 
-<section class="page-hero services-hero">
-  <p class="eyebrow">Technical Consulting Services</p>
-  <h1>Focused support for water quality, groundwater, wells, and utility planning.</h1>
-  <p class="hero-subtitle">
-    Practical technical consulting for public agencies, utilities, Groundwater Sustainability
-    Agencies, watershed programs, and project teams that need senior-level support for
-    focused assignments.
-  </p>
-</section>
+<section class="services-page">
 
-<section class="services-section" aria-labelledby="services-heading">
-  <div class="section-intro">
-    <h2 id="services-heading">Services</h2>
-    <p>
-      Services are structured for small and medium-effort projects, including monitoring
-      plans, regulatory implementation support, technical reviews, data analysis, reporting,
-      RFPs, project prioritization, and owner-side advisory support.
+  <div class="services-title-block">
+    <h1>Focused support for water quality, groundwater, wells, and utility planning.</h1>
+    <p class="lead">
+      Practical technical consulting for public agencies, utilities, Groundwater Sustainability
+      Agencies, watershed programs, and project teams that need senior-level support for focused assignments.
     </p>
   </div>
 
-  <div class="services-grid">
+  <div class="services-intro">
+    <h2>Services</h2>
+    <p>
+      Services include monitoring design, regulatory implementation support, technical reviews,
+      data analysis, reporting, RFPs, project prioritization, and owner-side advisory support.
+    </p>
+  </div>
 
-    <article class="service-card">
-      <div class="service-number">01</div>
+  <div class="service-grid">
+
+    <article class="service-box">
       <h3>TMDL Implementation & Regulatory Support</h3>
       <p>
-        Practical assistance translating TMDL, permit, watershed, and water quality requirements
-        into implementable monitoring, reporting, and project actions.
+        Translating TMDL, permit, watershed, and water quality requirements into practical
+        monitoring, reporting, and implementation actions.
       </p>
       <ul>
         <li>TMDL implementation planning</li>
@@ -42,12 +39,11 @@ permalink: /services/
       </ul>
     </article>
 
-    <article class="service-card">
-      <div class="service-number">02</div>
+    <article class="service-box">
       <h3>Water Quality Monitoring Design</h3>
       <p>
-        Monitoring programs designed to answer management questions, support regulatory
-        compliance, and produce data that can guide defensible decisions.
+        Monitoring programs designed to answer management questions, support compliance,
+        and produce data that can guide defensible decisions.
       </p>
       <ul>
         <li>Surface water, reservoir, groundwater, and recycled water monitoring plans</li>
@@ -58,12 +54,11 @@ permalink: /services/
       </ul>
     </article>
 
-    <article class="service-card">
-      <div class="service-number">03</div>
+    <article class="service-box">
       <h3>Production Well Asset Management</h3>
       <p>
         Data-driven support for evaluating municipal production wells, improving reliability,
-        and prioritizing limited capital funds.
+        and prioritizing capital funds.
       </p>
       <ul>
         <li>Well and pump performance testing programs</li>
@@ -74,8 +69,7 @@ permalink: /services/
       </ul>
     </article>
 
-    <article class="service-card">
-      <div class="service-number">04</div>
+    <article class="service-box">
       <h3>Well Rehabilitation & Replacement Planning</h3>
       <p>
         Owner-side technical support for well rehabilitation, pump replacement, test wells,
@@ -86,12 +80,11 @@ permalink: /services/
         <li>Inspection, cleaning, redevelopment, and pump testing recommendations</li>
         <li>Test well and replacement well planning</li>
         <li>Contractor and consultant procurement support</li>
-        <li>Review of hydrogeologic recommendations, project concepts, and bid documents</li>
+        <li>Review of hydrogeologic recommendations and bid documents</li>
       </ul>
     </article>
 
-    <article class="service-card">
-      <div class="service-number">05</div>
+    <article class="service-box">
       <h3>SGMA & Groundwater Sustainability Support</h3>
       <p>
         Technical analysis, reporting, and implementation support for Groundwater Sustainability
@@ -106,8 +99,7 @@ permalink: /services/
       </ul>
     </article>
 
-    <article class="service-card">
-      <div class="service-number">06</div>
+    <article class="service-box">
       <h3>Reservoir & Surface Water Quality Management</h3>
       <p>
         Technical support for reservoirs, lakes, and managed surface waters with nutrient,
@@ -122,8 +114,7 @@ permalink: /services/
       </ul>
     </article>
 
-    <article class="service-card">
-      <div class="service-number">07</div>
+    <article class="service-box">
       <h3>Utility Risk Prioritization & CIP Planning</h3>
       <p>
         Structured evaluation of utility assets to support maintenance planning, rehabilitation
@@ -138,8 +129,7 @@ permalink: /services/
       </ul>
     </article>
 
-    <article class="service-card">
-      <div class="service-number">08</div>
+    <article class="service-box">
       <h3>Technical Scopes, RFPs & Owner’s Advisory</h3>
       <p>
         Senior technical assistance for agencies needing clear scopes, defensible procurement
@@ -155,23 +145,20 @@ permalink: /services/
     </article>
 
   </div>
-</section>
 
-<section class="work-style-section" aria-labelledby="work-style-heading">
-  <div class="work-style-card">
+  <section class="engagement-box">
     <div>
-      <p class="eyebrow">Engagement Approach</p>
-      <h2 id="work-style-heading">Flexible support for focused assignments.</h2>
+      <h2>Flexible support for focused assignments.</h2>
     </div>
 
-    <div class="work-style-content">
+    <div>
       <p>
-        Engagements can be structured as rapid technical reviews, short-term staff support,
+        Engagements can be structured as rapid technical reviews, staff support,
         project scoping assistance, peer review, data analysis, monitoring plan development,
         RFP preparation, or owner’s advisory support.
       </p>
 
-      <div class="work-style-list">
+      <div class="tag-list">
         <span>Technical memos</span>
         <span>Monitoring plans</span>
         <span>RFPs and scopes</span>
@@ -180,5 +167,6 @@ permalink: /services/
         <span>Owner-side reviews</span>
       </div>
     </div>
-  </div>
+  </section>
+
 </section>
