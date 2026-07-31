@@ -226,7 +226,6 @@ p {
 
 /* =========================
    LEGACY HERO SUPPORT
-   Keeps homepage compatible if using existing .hero markup
 ========================= */
 
 .hero {
@@ -402,7 +401,6 @@ p {
 
 /* =========================
    LEGACY SERVICES GRID SUPPORT
-   Keeps existing pages using .grid and .card from breaking
 ========================= */
 
 .grid {
