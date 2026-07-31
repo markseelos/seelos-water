@@ -14,6 +14,10 @@ permalink: /services/
     </p>
   </div>
 
+  <div class="services-icon-row">  
+  <img src="/assets/images/three_service_icons.jpg" alt="Reservoir, groundwater well, and data science service icons">  
+</div>  
+
   <div class="services-intro">
     <h2>Services</h2>
     <p>
