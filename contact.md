@@ -10,7 +10,7 @@ permalink: /contact/
     <h1>Contact</h1>
 
     <p class="lead">
-      For project inquiries, technical support, or potential collaboration, please use the form below.
+      For inquiries, please use the form below.
       I typically respond within a few business days.
     </p>
 
@@ -32,18 +32,8 @@ permalink: /contact/
       </div>
 
       <div class="form-field">
-        <label for="project-type">Project Type</label>
-        <select id="project-type" name="project_type">
-          <option value="">Select one</option>
-          <option value="TMDL implementation or regulatory support">TMDL Implementation / Regulatory Support</option>
-          <option value="Water quality monitoring">Water Quality Monitoring</option>
-          <option value="Groundwater or SGMA">Groundwater / SGMA</option>
-          <option value="Production wells or well planning">Production Wells / Well Planning</option>
-          <option value="Reservoir or surface water quality">Reservoir / Surface Water Quality</option>
-          <option value="GIS or statistical analysis">GIS / Statistical Analysis</option>
-          <option value="Utility project planning">Utility Project Planning</option>
-          <option value="Other">Other</option>
-        </select>
+        <label for="subject">Subject</label>
+        <input type="text" id="subject" name="subject" autocomplete="off" required>
       </div>
 
       <div class="form-field">
