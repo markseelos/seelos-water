@@ -863,3 +863,15 @@ footer > div {
     max-width: 200px;
   }
 }
+
+/* FINAL OVERRIDE - ABOUT HEADSHOT */
+img.about-headshot {
+  width: 220px !important;
+  height: 220px !important;
+  max-width: 220px !important;
+  object-fit: cover !important;
+  border-radius: 18px;
+  display: block;
+  margin: 0 auto 24px;
+  box-shadow: var(--shadow-soft);
+}
