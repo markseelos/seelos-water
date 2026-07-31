@@ -15,28 +15,3 @@ permalink: /
   </div>
 
 </section>
-
-<section class="section">
-
-  <h2>Services</h2>
-
-  <div class="grid">
-
-    <div class="card">
-      <h3>Water Resources</h3>
-      <p>Surface water, groundwater, water quality, and water supply planning.</p>
-    </div>
-
-    <div class="card">
-      <h3>Environmental Science</h3>
-      <p>Monitoring design, technical analysis, reporting, and regulatory support.</p>
-    </div>
-
-    <div class="card">
-      <h3>Data Science</h3>
-      <p>Data-driven decision-making using geospatial analysis, statistics, and data visualization.</p>
-    </div>
-
-  </div>
-
-</section>
