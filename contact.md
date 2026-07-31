@@ -1,122 +1,61 @@
-/* =========================
-   CONTACT PAGE
-========================= */
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
 
-.contact-page {
-  width: 100%;
-  max-width: 760px;
-  margin: 0 auto;
-}
+<section class="contact-page">
 
-.contact-card {
-  width: 100%;
-}
+  <div class="contact-card">
+    <h1>Contact</h1>
 
-.contact-card h1 {
-  margin-bottom: 22px;
-}
+    <p class="lead">
+      For project inquiries, technical support, or potential collaboration, please use the form below.
+      I typically respond within a few business days.
+    </p>
 
-.contact-card .lead {
-  max-width: 680px;
-  margin-bottom: 34px;
-  color: var(--muted);
-}
+    <form action="https://formspree.io/f/mrenvwnk" method="POST" class="contact-form">
 
-.contact-form {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  width: 100%;
-}
+      <div class="form-field">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" autocomplete="name" required>
+      </div>
 
-.form-field {
-  display: flex;
-  flex-direction: column;
-  gap: 7px;
-  width: 100%;
-}
+      <div class="form-field">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" autocomplete="email" required>
+      </div>
 
-.form-field label {
-  color: var(--heading);
-  font-size: 0.92rem;
-  font-weight: 650;
-}
+      <div class="form-field">
+        <label for="organization">Organization</label>
+        <input type="text" id="organization" name="organization" autocomplete="organization">
+      </div>
 
-.form-field input,
-.form-field select,
-.form-field textarea {
-  display: block;
-  width: 100%;
-  box-sizing: border-box;
-  padding: 13px 14px;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  background: #ffffff;
-  color: var(--text);
-  font-family: inherit;
-  font-size: 1rem;
-  line-height: 1.4;
-  appearance: none;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease;
-}
+      <div class="form-field">
+        <label for="project-type">Project Type</label>
+        <select id="project-type" name="project_type">
+          <option value="">Select one</option>
+          <option value="TMDL implementation or regulatory support">TMDL Implementation / Regulatory Support</option>
+          <option value="Water quality monitoring">Water Quality Monitoring</option>
+          <option value="Groundwater or SGMA">Groundwater / SGMA</option>
+          <option value="Production wells or well planning">Production Wells / Well Planning</option>
+          <option value="Reservoir or surface water quality">Reservoir / Surface Water Quality</option>
+          <option value="GIS or statistical analysis">GIS / Statistical Analysis</option>
+          <option value="Utility project planning">Utility Project Planning</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
 
-.form-field select {
-  background-image:
-    linear-gradient(45deg, transparent 50%, var(--muted) 50%),
-    linear-gradient(135deg, var(--muted) 50%, transparent 50%);
-  background-position:
-    calc(100% - 18px) 50%,
-    calc(100% - 13px) 50%;
-  background-size:
-    5px 5px,
-    5px 5px;
-  background-repeat: no-repeat;
-  padding-right: 42px;
-}
+      <div class="form-field">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="7" required></textarea>
+      </div>
 
-.form-field textarea {
-  min-height: 170px;
-  resize: vertical;
-}
+      <input type="hidden" name="_subject" value="New inquiry from Seelos Water website">
+      <input type="text" name="_gotcha" class="form-honeypot" tabindex="-1" autocomplete="off">
 
-.form-field input:focus,
-.form-field select:focus,
-.form-field textarea:focus {
-  outline: none;
-  border-color: var(--accent);
-  box-shadow: 0 0 0 4px rgba(47, 111, 126, 0.12);
-}
+      <button type="submit">Send Message</button>
+    </form>
+  </div>
 
-.contact-form button {
-  align-self: flex-start;
-  margin-top: 4px;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 999px;
-  background: var(--accent);
-  color: #ffffff;
-  font-family: inherit;
-  font-size: 0.95rem;
-  font-weight: 700;
-  cursor: pointer;
-  transition: background 0.2s ease, transform 0.2s ease;
-}
-
-.contact-form button:hover {
-  background: var(--accent-dark);
-  transform: translateY(-1px);
-}
-
-.form-honeypot {
-  display: none !important;
-}
-
-@media (max-width: 600px) {
-  .contact-page {
-    max-width: 100%;
-  }
-
-  .contact-form button {
-    width: 100%;
-  }
-}
+</section>
