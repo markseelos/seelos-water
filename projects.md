@@ -66,4 +66,3 @@ permalink: /projects/
     </div>
   </section>
 
-</section>
