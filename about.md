@@ -98,7 +98,7 @@ Mark’s work combines technical expertise with practical water management, brin
       <ul>
 
         <li>
-          Beutel, M. W., Rodal-Morales, N., Singer, M., <strong>Seelos, M.</strong>, and Amegbletora, L.
+          Beutel, M. W., Rodal-Morales, N., Singer, M., <strong>Seelos, M.</strong>, and Amegbletor, L.
           Suppression of sediment phosphorus release by Phoslock®, aluminum chlorohydrate, and alum during extended sediment–water incubation with organic matter addition.
         </li>
 
