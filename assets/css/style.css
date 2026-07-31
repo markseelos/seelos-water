@@ -631,6 +631,12 @@ img.profile-photo {
   margin: 0 auto;
 }
 
+.contact-location {  
+  margin: -0.5rem 0 1.5rem 0;  
+  color: #64748b;  
+  font-size: 0.95rem;  
+}  
+
 .contact-card,
 .contact-content {
   width: 100%;
